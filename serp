@@ -1,0 +1,5 @@
+[
+  {id: 1, sound_name: 'Птица номер 1', sound_name_en: 'Bird number 1'},
+  {id: 2, sound_name: 'Птица номер 2', sound_name_en: 'Bird number 2'},
+  {id: 3, sound_name: 'Птица номер 3', sound_name_en: 'Bird number 3'},
+]
